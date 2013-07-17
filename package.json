@@ -4,7 +4,7 @@
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-akcp",
 	"author": "Jean Gabes",
-	"description": "Akcp box checks for temperature and humidity",
+	"description": "AKCP box checks for temperature and humidity",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
@@ -18,7 +18,9 @@
 	"repository": "https://github.com/shinken-monitoring/pack-akcp",
 	"keywords": [
 	  "pack",
-	  
+	  "sensors",
+	  "akcp",
+	  "temperature"	  
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
